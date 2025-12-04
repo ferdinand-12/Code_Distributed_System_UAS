@@ -49,3 +49,8 @@ User lain akan menerima informasi ketika seseorang masuk atau keluar dari server
 ├── server.py # Program server utama (select)
 ├── client.py # Program client (threading)
 └── README.md # Dokumentasi
+
+### 🔹 7. Anggota Kelompok
+- Priscilla Rebekah Tedja (535240086)
+- Ferdinand Gouwadi (535240087)
+- Tandwiyan (535240176)
